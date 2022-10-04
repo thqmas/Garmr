@@ -1,6 +1,5 @@
-# I have a dream
-#╭──────────────────╮
-#│      Garmr       │
-#╰――――――――――――――――――╯
-#
-#           satay tuned!
+Don't panic!
+I have a plan
+
+
+    stay tuned!
